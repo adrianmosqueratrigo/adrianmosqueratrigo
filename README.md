@@ -1,15 +1,15 @@
 # 👋 Hola, soy Adrián
 
-Desarrollador de software junior aprendiendo a través de proyectos reales.
+Desarrollador de software junior en constante formación. Pico y pala.
 
 ---
 
 ## 🚀 Sobre mí
 
 - 📍 A Coruña, España
-- 💻 Trabajo principalmente con **Java, Flutter y SQL** pero estoy
-- 📚 Transformo ejercicios de clase en proyectos completos
-- 🎯 Objetivo: finalizar el curso y adentrarme en proyectos reale.
+- 💻 Trabajo principalmente con **Java, Flutter y SQL**
+- 📚 Transformo ejercicios en proyectos más completos
+- 🎯 Objetivo: finalizar el curso y adentrarme en proyectos reales
 
 ---
 
@@ -28,15 +28,15 @@ Java · Flutter · MySQL · SQLite · Hibernate · Git · GitHub
 
 ---
 
-## 📊 GitHub Stats
-
-![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianmosqueratrigo&show_icons=true&theme=default)
-
----
-
 ## 📂 Proyectos destacados
 
 > Próximamente – estoy organizando y subiendo mis proyectos según el tiempo me lo permite.
+
+---
+
+## 📊 GitHub Stats
+
+![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianmosqueratrigo&show_icons=true&theme=default)
 
 ---
 
@@ -46,7 +46,6 @@ Java · Flutter · MySQL · SQLite · Hibernate · Git · GitHub
 - Flujo de trabajo con Git
 - Puliendo Java y Flutter
 - Interfaces en Flutter
-- 
 
 ---
 
