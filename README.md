@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hola, soy Adrián
 
-<!--
-**adrianmosqueratrigo/adrianmosqueratrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software junior aprendiendo a través de proyectos reales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 📍 A Coruña, España
+- 💻 Trabajo principalmente con **Java, Flutter y SQL** pero estoy
+- 📚 Transformo ejercicios de clase en proyectos completos
+- 🎯 Objetivo: finalizar el curso y adentrarme en proyectos reale.
+
+---
+
+## 🛠 Tecnologías
+
+- Java
+- Flutter
+- MySQL / SQLite
+- Hibernate
+
+---
+
+## 📂 Proyectos destacados
+
+> Próximamente – estoy organizando y subiendo mis proyectos según el tiempo me lo permite.
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Clean Code
+- Flujo de trabajo con Git
+- Puliendo Java y Flutter
+- Interfaces en Flutter
+- 
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://es.linkedin.com/in/adrian-mosquera-trigo
+
+---
