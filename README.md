@@ -1,10 +1,10 @@
-# 👋 Hola, soy Adrián
+# 👋 Hola, soy Adrián!
 
 Desarrollador de software junior en constante formación. Pico y pala.
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 SOBRE MÍ
 
 - 📍 A Coruña, España
 - 💻 Trabajo principalmente con **Java, Flutter y SQL**
@@ -13,7 +13,7 @@ Desarrollador de software junior en constante formación. Pico y pala.
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 TECNOLOGÍAS
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
@@ -28,7 +28,7 @@ Java · Flutter · MySQL · SQLite · Hibernate · Git · GitHub
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 PROYECTOS DESTACADOS
 
 ### 🎮 Españita Wars (Java + Swing)
 
@@ -57,13 +57,13 @@ Juego tipo clicker desarrollado en Flutter.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 ![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianmosqueratrigo&show_icons=true&theme=default)
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🌱 ACTUALMENTE APRENDIENDO
 
 - Clean Code
 - Flujo de trabajo con Git
@@ -72,7 +72,7 @@ Juego tipo clicker desarrollado en Flutter.
 
 ---
 
-## 📫 Contacto
+## 📫 CONTACTO
 
 <p align="left">
   <a href="https://es.linkedin.com/in/adrian-mosquera-trigo" target="_blank">
