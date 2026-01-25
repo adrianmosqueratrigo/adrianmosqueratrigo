@@ -30,7 +30,30 @@ Java · Flutter · MySQL · SQLite · Hibernate · Git · GitHub
 
 ## 📂 Proyectos destacados
 
-> Próximamente – estoy organizando y subiendo mis proyectos según el tiempo me lo permite.
+### 🎮 Españita Wars (Java + Swing)
+
+Juego desarrollado como proyecto final de primer curso (DAM).
+
+- Interfaz gráfica con Swing
+- Lógica completa del juego en Java
+- Persistencia de datos en fichero de texto
+- Desarrollado en Eclipse
+
+> Código y documentación del proyecto PRÓXIMAMENTE.
+
+---
+
+### ⛏️ Digger Clicker (Flutter + MySQL)
+
+Juego tipo clicker desarrollado en Flutter.
+
+- Sistema de registro y login de usuarios
+- Conexión a base de datos MySQL
+- Guardado y carga del progreso de partida
+- Desarrollado en VS Code y emulado en Android Studio
+
+> Código y documentación del proyecto PRÓXIMAMENTE.
+
 
 ---
 
