@@ -1,30 +1,38 @@
+
 # 👋 Hola, soy Adrián!
 
-Desarrollador de software junior en constante formación. Pico y pala.
+Desarrollador Backend Junior, con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y experiencia previa en el sector IT.
 
 ---
 
 ## 🚀 SOBRE MÍ
 
 - 📍 A Coruña, España
-- 💻 Trabajo principalmente con **Java, Flutter y SQL**
-- 📚 Transformo ejercicios en proyectos más completos
-- 🎯 Objetivo: finalizar el curso y adentrarme en proyectos reales
+- 💻 Enfocado en el desarrollo backend con **Java y Spring Boot**
+- 🛠️ Experiencia práctica desarrollando APIs REST con Spring Boot
+- 🎯 Buscando oportunidades profesionales como desarrollador backend
 
 ---
 
 ## 🛠 TECNOLOGÍAS
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" alt="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" />
 </p>
 
-Java · Flutter · MySQL · SQLite · Hibernate · Git · GitHub
+**Backend:** Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · API REST
+
+**Bases de datos:** SQL · MySQL · SQLite
+
+**Herramientas:** Docker · Maven · Git · GitHub · Postman · Swagger
+
+**Otras tecnologías:** Flutter · Dart · Java Swing
 
 ---
 
@@ -32,52 +40,51 @@ Java · Flutter · MySQL · SQLite · Hibernate · Git · GitHub
 
 ### 🎮 Españita Wars (Java + Swing)
 
-Juego desarrollado como proyecto final de primer curso (DAM).
+Juego desarrollado como proyecto final de primer curso de DAM.
 
-- Interfaz gráfica con Swing
-- Lógica completa del juego en Java
-- Persistencia de datos en fichero de texto
-- Desarrollado en Eclipse
+- Interfaz gráfica con Java Swing
+- Lógica del juego desarrollada en Java
+- Persistencia de datos en ficheros de texto
+- Entorno de desarrollo Eclipse
 
-> Código y documentación del proyecto PRÓXIMAMENTE.
+*Repositorio pendiente de publicación.*
+
+---
+
+### 🎲 BGTrack (Flutter + MySQL)
+
+Aplicación para la gestión de partidas y estadísticas de juegos de mesa.
+
+- Gestión de usuarios, juegos, jugadores y partidas
+- Registro de resultados y estadísticas
+- Persistencia de datos mediante MySQL
+- Entorno de base de datos con Docker Compose
+
+🔗 [Ver repositorio](https://github.com/adrianmosqueratrigo/bgtrack)
 
 ---
 
 ### ⛏️ Digger Clicker (Flutter + MySQL)
 
-Juego tipo clicker desarrollado en Flutter.
+Juego tipo clicker desarrollado con Flutter.
 
-- Sistema de registro y login de usuarios
+- Sistema de registro e inicio de sesión
 - Conexión a base de datos MySQL
-- Guardado y carga del progreso de partida
-- Desarrollado en VS Code y emulado en Android Studio
+- Guardado y recuperación del progreso de partida
+- Desarrollo con VS Code y Android Studio
 
-> Código y documentación del proyecto PRÓXIMAMENTE.
-
-
----
-
-## 📊 GITHUB STATS
-
-![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianmosqueratrigo&show_icons=true&theme=default)
+*Repositorio pendiente de publicación.*
 
 ---
 
 ## 🌱 ACTUALMENTE APRENDIENDO
 
+- Buenas prácticas de desarrollo backend con Java y Spring Boot
+- Testing y calidad del código
 - Clean Code
-- Flujo de trabajo con Git
-- Puliendo Java y Flutter
-- Interfaces en Flutter
 
 ---
 
 ## 📫 CONTACTO
 
-<p align="left">
-  <a href="https://es.linkedin.com/in/adrian-mosquera-trigo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-  </a>
-</p>
-
----
+[LinkedIn](https://www.linkedin.com/in/adrian-mosquera-trigo/)
